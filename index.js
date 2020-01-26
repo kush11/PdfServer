@@ -17,7 +17,7 @@ var Router = express.Router();
 app.use('/api/v1',Router);
 
 // path to get the pdf
-app.use('/pdf', express.static(__dirname + '/Class 10'));
+app.use('/pdf', express.static(__dirname + '/Clas_10'));
 
 route.init(Router);
 
