@@ -17,5 +17,6 @@ https://class10server.herokuapp.com/pdf/Important_Questions/Hindi/<filename.pdf>
 https://class10server.herokuapp.com/pdf/Important_Questions/Math/<filename.pdf>
 https://class10server.herokuapp.com/pdf/Important_Questions/Social_Science/<filename.pdf>
 
+server example: https://class10server.herokuapp.com/pdf/Board_Paper/English/CBSE%20Class%2010%20English%20Communicative%20Previous%20Year%20Question%20Paper%202012%20Set-1.pdf
 
-example: http://localhost:3000/pdf/English/CBSE%20Class%2010%20English%20Communicative%20Previous%20Year%20Question%20Paper%202012%20Set-1.pdf
+local example: http://localhost:3000/pdf/Board_Paper/English/CBSE%20Class%2010%20English%20Communicative%20Previous%20Year%20Question%20Paper%202012%20Set-1.pdf
